@@ -35,8 +35,7 @@ Hardware – PCs, Cyclone II , USB flasher
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
-## Developed by: MADHUMITHA R R
-## RegisterNumber:212224240083*/
+
     module EXP_2_BOOLEAN_MIN(a,b,c,d,w,x,y,z,f1,f2);
     input a,b,c,d,w,x,y,z;
     output f1,f2;
